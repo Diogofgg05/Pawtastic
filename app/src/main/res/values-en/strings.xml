@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pawtastic</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="text_Guardar">Save</string>
+    <string name="text_entrar">Login</string>
+
+    <string name="form_title">Profile</string>
+    <string name="hint_nome">Name</string>
+    <string name="hint_apelido">Username</string>
+    <string name="hint_telemovel">Mobile Phone</string>
+    <string name="hint_emailProfile">Email</string>
+    <string name="hint_passwordProfile">Password</string>
+    <string name="btn_guardarProfile">Save</string>
+    <string name="logout_message">Are you sure you want to log out?</string>
+    <string name="btn_logout">Logout</string>
+
+    <string name="menu_scan">Scan</string>
+    <string name="menu_paws">Paws</string>
+    <string name="menu_adoption">Adoption</string>
+    <string name="menu_profile">Profile</string>
+
+
+</resources>

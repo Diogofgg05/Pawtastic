@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Scan"
+        android:icon="@android:drawable/ic_lock_idle_lock"
+        android:title="Scan" />
+    <item
+        android:id="@+id/navigation_Patinhas"
+        android:icon="@drawable/patinhas"
+        android:title="Patinhas" />
+    <item
+        android:id="@+id/navigation_Adocao"
+        android:icon="@drawable/dog"
+        android:title="Adoção" />
+    <item
+        android:id="@+id/navigation_Profile"
+        android:icon="@drawable/profileuser"
+        android:title="Profile" />
+</menu>

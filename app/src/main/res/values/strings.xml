@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gestão de Dados</string>
+    <string name="hint_email">Digite seu email</string>
+    <string name="hint_password">Digite sua senha</string>
+    <string name="text_Guardar">Guardar</string>
+    <string name="text_entrar">Entrar</string>
+
+
+
+    <string name="form_title">Perfil</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_apelido">Apelido</string>
+    <string name="hint_telemovel">Telemóvel</string>
+    <string name="hint_emailProfile">Email</string>
+    <string name="hint_passwordProfile">Password</string>
+    <string name="btn_guardarProfile">Guardar</string>
+    <string name="logout_message">Você tem certeza que deseja sair?</string>
+    <string name="btn_logout">Logout</string>
+
+
+
+    <string name="menu_scan">Scan</string>
+    <string name="menu_paws">Patinhas</string>
+    <string name="menu_adoption">Adoção</string>
+    <string name="menu_profile">Profile</string>
+
+</resources>
